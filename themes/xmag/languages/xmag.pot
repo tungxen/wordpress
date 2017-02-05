@@ -1,0 +1,475 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: xMag\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-07 00:27+0000\n"
+"POT-Revision-Date: Fri Jul 08 2016 17:24:50 GMT+0200 (CEST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: sidebar.php:38
+msgid "Meta"
+msgstr ""
+
+#: footer.php:46
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:46
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#. Author URI of the theme
+#: footer.php:48
+msgid "http://www.designlabthemes.com/"
+msgstr ""
+
+#: footer.php:48
+#, php-format
+msgid "Theme by %s"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:27
+msgid "Menu"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: functions.php:45
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:46
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:47
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:48
+msgid "Social Menu"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Noto Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:112
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Noto Serif, translate this to 'off'. Do not translate into your own language.
+#: functions.php:117
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional character subset specific to your language, translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:122
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:183
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:192
+msgid "Footer Widget Area Left"
+msgstr ""
+
+#: functions.php:201
+msgid "Footer Widget Area Center"
+msgstr ""
+
+#: functions.php:210
+msgid "Footer Widget Area Right"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:36 comments.php:54
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37 comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-search.php:41 template-parts/content-large.php:49
+#: template-parts/content.php:41
+msgid "Read more"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:37 template-parts/content-single.php:47
+#: template-parts/content-large.php:37
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:46 inc/template-tags.php:71
+msgid "Edit"
+msgstr ""
+
+#: template-parts/content-single.php:69
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/content-single.php:70
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/author-bio.php:20
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#. Name of the template
+msgid "Fullwidth Page Template"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "<span class=\"icon-clock\"></span> %s"
+msgstr ""
+
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53 inc/template-tags.php:59
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:55
+#, php-format
+msgid "Category: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:61
+#, php-format
+msgid "Tag: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:67
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:67
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:67
+msgid "% Comments"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "Theme Homepage &rarr;"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Rate This Theme &rarr;"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Try xMag Plus &rarr;"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "Main Menu Style"
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Light"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Custom Background"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Set a custom background for the Main Menu"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Sticky Main Menu"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Show the Home icon in the Main Menu"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Show Search Form"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid ""
+"Custom Header Image Height. If you change the height you have to add a new "
+"image."
+msgstr ""
+
+#: inc/customizer.php:174
+msgid "Show Header Image on Front Page Only"
+msgstr ""
+
+#: inc/customizer.php:182
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "General Settings."
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Layout Style"
+msgstr ""
+
+#: inc/customizer.php:198
+msgid ""
+"Choose between Full width or Boxed Layout. If you select Boxed Layout option,"
+" you can edit Background Settings."
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer.php:216
+msgid "Show Read More Link"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:227
+msgid "Settings for Blog Homepage."
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "List: Small Thumbnail + Sidebar"
+msgstr ""
+
+#: inc/customizer.php:243
+msgid "List: Medium Thumbnail + Sidebar"
+msgstr ""
+
+#: inc/customizer.php:244 inc/customizer.php:284
+msgid "Classic: Large Posts + Sidebar"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Full Content Post + Sidebar"
+msgstr ""
+
+#: inc/customizer.php:256 inc/customizer.php:295
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "Categories and Archives"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Settings for Category, Tag, Search result, Author and Archive Pages."
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "Archives Layout"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Small Thumbnail + Sidebar"
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "Medium Thumbnail + Sidebar"
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer.php:315 inc/customizer.php:353
+msgid "Show Featured Image"
+msgstr ""
+
+#: inc/customizer.php:328 inc/customizer.php:366
+msgid "Featured Image Size"
+msgstr ""
+
+#: inc/customizer.php:333 inc/customizer.php:371
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:334 inc/customizer.php:372
+msgid "Full Width (images must be at least 1120px)"
+msgstr ""
+
+#: inc/customizer.php:341
+msgid "Page"
+msgstr ""
+
+#: inc/customizer.php:379
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:391
+msgid "Show Scroll Up button"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "xMag Links"
+msgstr ""
+
+#: inc/customizer.php:422
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer.php:436
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer.php:450
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customize-pro/class-customize.php:76
+msgid "xMag Plus"
+msgstr ""
+
+#: inc/customize-pro/class-customize.php:77
+msgid "View xMag Plus"
+msgstr ""
+
+#. Name of the theme
+msgid "xMag"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"xMag is a free Magazine WordPress Theme. It features a simple and elegant "
+"design. This theme comes with great features for magazine, blog and news "
+"websites."
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://www.designlabthemes.com/xmag-wordpress-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "Design Lab"
+msgstr ""

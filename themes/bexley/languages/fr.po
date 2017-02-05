@@ -1,0 +1,226 @@
+# Translation of WordPress.com - Themes - Bexley in French (France)
+# This file is distributed under the same license as the WordPress.com - Themes - Bexley package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-12 03:15:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.1.0-beta.2\n"
+"Language: fr\n"
+"Project-Id-Version: WordPress.com - Themes - Bexley\n"
+
+#: functions.php:47
+msgid "Menu"
+msgstr "Menu"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/premium/bexley/style.css
+msgid "https://prothemedesign.com/"
+msgstr "https://prothemedesign.com/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/bexley/custom-templates/custom-page-fullwidth.php
+msgid "Full Width"
+msgstr "Plein écran"
+
+#: searchform.php:10
+msgctxt "search input placeholder text"
+msgid "Search..."
+msgstr "Rech..."
+
+#: search.php:11
+msgid "Search results for &#8216;<em>%s</em>&#8217;"
+msgstr "R&eacute;sultat de recherche pour &#8216;<em>%s</em>&#8217;"
+
+#: inc/postmetadata.php:22
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: inc/postmetadata.php:22
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: inc/postmetadata.php:16
+msgid "View all posts by %s"
+msgstr "Voir tous les articles par %s"
+
+#: image.php:42
+msgid "&lsaquo; Back"
+msgstr "&lsaquo; Retour"
+
+#: image.php:15
+msgid "<div class=\"postmetadata\">Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a></div>"
+msgstr "<div class=\"postmetadata\">Publi&eacute; <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> &agrave; <a href=\"%3$s\" title=\"Lien image full-size\">%4$s &times; %5$s</a> dans <a href=\"%6$s\" title=\"Retour %7$s\" rel=\"gallery\">%7$s</a></div>"
+
+#: header.php:32
+msgid "Home"
+msgstr "Accueil"
+
+#: functions.php:364
+msgid "Display featured image on blog posts"
+msgstr "Munir les articles d'une image à la Une"
+
+#: functions.php:349
+msgid "Right"
+msgstr "Droite"
+
+#: functions.php:348
+msgid "Center"
+msgstr "Centre"
+
+#: functions.php:347
+msgid "Left (default)"
+msgstr "Gauche (défaut)"
+
+#: functions.php:344
+msgid "Homepage Title Alignment"
+msgstr "Alignement du Titre de la Page d''Accueil"
+
+#: functions.php:312
+msgid "Options for the bexley theme."
+msgstr "Options du th&egrave;me bexley."
+
+#: functions.php:311
+msgid "Theme"
+msgstr "Thème"
+
+#: functions.php:255
+msgid "Read More &rarr;"
+msgstr "Lire la suite &rarr;"
+
+#: functions.php:195
+msgid "&lsaquo; Newer"
+msgstr "Plus R&eacute;cent"
+
+#: functions.php:194
+msgid "Older &rsaquo;"
+msgstr "Pr&eacute;c&eacute;dent &rsaquo;"
+
+#: functions.php:133
+msgid "Read More"
+msgstr "Lire la Suite"
+
+#: functions.php:110
+msgid "Footer Widgets"
+msgstr "Widgets de pied de page"
+
+#: functions.php:97
+msgid "Sidebar Widgets"
+msgstr "Sidebar"
+
+#: functions.php:84
+msgid "Top Menu"
+msgstr "Menu Principal"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lora, translate this to 'off'. Do not translate into your
+#. * own language.
+#: functions.php:34
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "on"
+
+#: footer.php:36
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème %1$s par %2$s."
+
+#: footer.php:34
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:34
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Une plate-forme sémantique de publication personnelle"
+
+#: content-single.php:61
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: content-single.php:58
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: content-single.php:51
+msgctxt "Tag list seperator"
+msgid ", "
+msgstr ", "
+
+#: content-single.php:51
+msgid "Tagged as: "
+msgstr "Tagu&eacute;:"
+
+#: content-single.php:44
+msgid "Categories: "
+msgstr "Catégories&nbsp;:"
+
+#: content-page.php:18 content-single.php:34
+msgid "Pages: "
+msgstr "Pages :"
+
+#: content-empty.php:25
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "Contenu Introuvable. L'outil de Recherche vous remettra peut-être sur la voie&hellip;"
+
+#: content-empty.php:20
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Contenu Introuvable. Réessayez en modifiant les termes de recherche."
+
+#: content-empty.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pr&ecirc;t &agrave; publier votre premier article ? <a href=\"%1$s\">Allons-y !</a>."
+
+#: content-empty.php:10
+msgid "Nothing Found"
+msgstr "Aucun Résultat"
+
+#: comments.php:40
+msgid "Newer Comments &rsaquo;"
+msgstr "Commentaires Récents &rsaquo;"
+
+#: comments.php:37
+msgid "&lsaquo; Older Comments"
+msgstr "&lsaquo; Commentaires Précédents"
+
+#: comments.php:20 inc/postmetadata.php:22
+msgid "Leave a comment"
+msgstr "Poster un commentaire"
+
+#: comments.php:18
+msgid "1 reply"
+msgid_plural "%1$s replies"
+msgstr[0] "1 réponse"
+msgstr[1] "%1$s réponses"
+
+#: author.php:12
+msgid "Author Archives"
+msgstr "Archives d&rsquo;Auteur"
+
+#: archive.php:38
+msgid "Blog Archives"
+msgstr "Archives du blog"
+
+#: archive.php:26 archive.php:30 archive.php:34
+msgid "Archive for %s"
+msgstr "Archives de %s"
+
+#: archive.php:22
+msgid "Tag Archive for &#8216;%s&#8217;"
+msgstr "Archives du tag &#8216;%s&#8217;"
+
+#: archive.php:18
+msgid "Category Archive for &#8216;%s&#8217;"
+msgstr "Archive de la cat&eacute;gorie &#8216;%s&#8217;"
+
+#: 404.php:22
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+#: 404.php:12
+msgid "Sorry, but the page you are looking for has not been found. Try checking the URL for errors, then hit the refresh button in your browser."
+msgstr "Désolé, mais la page que vous cherchez est introuvable. Vérifiez son adresse, puis appuyez sur le bouton d'actualisation de votre navigateur."
+
+#: 404.php:11
+msgid "Error 404 - Not Found"
+msgstr "Erreur 404 - Introuvable"

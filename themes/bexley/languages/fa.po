@@ -1,0 +1,209 @@
+# Translation of WordPress.com - Themes - Bexley in Persian
+# This file is distributed under the same license as the WordPress.com - Themes - Bexley package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-28 01:42:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-beta.2\n"
+"Language: fa\n"
+"Project-Id-Version: WordPress.com - Themes - Bexley\n"
+
+#: functions.php:47
+msgid "Menu"
+msgstr "فهرست"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/premium/bexley/style.css
+msgid "https://prothemedesign.com/"
+msgstr "https://prothemedesign.com/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/bexley/custom-templates/custom-page-fullwidth.php
+msgid "Full Width"
+msgstr "پهنای کامل"
+
+#: searchform.php:10
+msgctxt "search input placeholder text"
+msgid "Search..."
+msgstr "جستجو..."
+
+#: search.php:11
+msgid "Search results for &#8216;<em>%s</em>&#8217;"
+msgstr "نتایج جستجو برای &#8216;<em>%s</em>&#8217;"
+
+#: inc/postmetadata.php:22
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: inc/postmetadata.php:22
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: inc/postmetadata.php:16
+msgid "View all posts by %s"
+msgstr "مشاهدهٔ همهٔ نوشته‌ها بر اساس %s"
+
+#: inc/postmetadata.php:10
+msgid "<em>By</em> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span> on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+msgstr "<em>بدست</em> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span> در <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+
+#: image.php:42
+msgid "&lsaquo; Back"
+msgstr "&lsaquo; بازگشت"
+
+#: image.php:15
+msgid "<div class=\"postmetadata\">Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a></div>"
+msgstr "<div class=\"postmetadata\">منتشرشده در<span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> در ساعت <a href=\"%3$s\" title=\"پیوند به تصویر کامل\">%4$s &times; %5$s</a> در <a href=\"%6$s\" title=\"بازگشت به %7$s\" rel=\"gallery\">%7$s</a></div>"
+
+#: header.php:32
+msgid "Home"
+msgstr "خانه"
+
+#: functions.php:349
+msgid "Right"
+msgstr "راست"
+
+#: functions.php:348
+msgid "Center"
+msgstr "میان‌چین"
+
+#: functions.php:347
+msgid "Left (default)"
+msgstr "چپ (پیش‌فرض)"
+
+#: functions.php:311
+msgid "Theme"
+msgstr "پوشته"
+
+#: functions.php:255
+msgid "Read More &rarr;"
+msgstr "بیشتر بخوانید &rarr;"
+
+#: functions.php:195
+msgid "&lsaquo; Newer"
+msgstr "&lsaquo; پسین"
+
+#: functions.php:194
+msgid "Older &rsaquo;"
+msgstr "پیشین &rsaquo;"
+
+#: functions.php:133
+msgid "Read More"
+msgstr "بیشتر بخوانید"
+
+#: functions.php:112
+msgid "Widgets that display at the bottom of the website."
+msgstr " ابزارک‌هایی که در پایین وب‌گاه نمایش می‌یابند."
+
+#: functions.php:110
+msgid "Footer Widgets"
+msgstr "ابزارک‌های پسایند"
+
+#: functions.php:99
+msgid "Widgets that display on the side of your website. Keep this empty to remove the sidebar."
+msgstr "ابزارهایی که در نوار کناری وب‌گاه شما نمایش داده می‌شوند. برای حذف نوار کناری، این بخش را خالی کنید."
+
+#: functions.php:97
+msgid "Sidebar Widgets"
+msgstr "ابزارک‌های نوار کناری"
+
+#: functions.php:84
+msgid "Top Menu"
+msgstr "گزینگان بالا"
+
+#: footer.php:36
+msgid "Theme: %1$s by %2$s."
+msgstr "پوسته: %1$s کاری از %2$s."
+
+#: footer.php:34
+msgid "Proudly powered by %s"
+msgstr "با افتخار، نیرو گرفته از %s"
+
+#: footer.php:34
+msgid "A Semantic Personal Publishing Platform"
+msgstr "بستر نشر شخصی معنایی"
+
+#: content-single.php:61
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: content-single.php:58
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: content-single.php:51
+msgctxt "Tag list seperator"
+msgid ", "
+msgstr "،"
+
+#: content-single.php:44
+msgid "Categories: "
+msgstr "دسته‌ها:"
+
+#: content-page.php:18 content-single.php:34
+msgid "Pages: "
+msgstr "صفحه‌ها:"
+
+#: content-empty.php:20
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "متأسفیم، موردی مطابق با جستجوی شما پیدا نشد. لطفا برای جستجو از کلیدواژه‌های دیگری استفاده کنید."
+
+#: content-empty.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آمادهٔ انتشار نخستین نوشتهٔ خود هستید؟ <a href=\"%1$s\">از اینجا بیآغازید</a>."
+
+#: content-empty.php:10
+msgid "Nothing Found"
+msgstr "چیزی پیدا نشد"
+
+#: comments.php:40
+msgid "Newer Comments &rsaquo;"
+msgstr "دیدگاه‌های تازه‌تر &rsaquo;"
+
+#: comments.php:37
+msgid "&lsaquo; Older Comments"
+msgstr "&lsaquo; دیدگاه‌های پیشین"
+
+#: comments.php:20 inc/postmetadata.php:22
+msgid "Leave a comment"
+msgstr "بیان دیدگاه"
+
+#: comments.php:18
+msgid "1 reply"
+msgid_plural "%1$s replies"
+msgstr[0] "۱ پاسخ"
+
+#: author.php:12
+msgid "Author Archives"
+msgstr "بایگانی‌های نویسنده"
+
+#: archive.php:38
+msgid "Blog Archives"
+msgstr "بايگانی‌ وب‌نوشت"
+
+#: archive.php:26 archive.php:30 archive.php:34
+msgid "Archive for %s"
+msgstr "بایگانیِ %s"
+
+#: archive.php:22
+msgid "Tag Archive for &#8216;%s&#8217;"
+msgstr "بایگانی برچسب برای &#8216;%s&#8217;"
+
+#: archive.php:18
+msgid "Category Archive for &#8216;%s&#8217;"
+msgstr "بایگانی دسته در &#8216;%s&#8217;"
+
+#: 404.php:22
+msgid "Recent Posts"
+msgstr "نوشته‌های تازه"
+
+#: 404.php:12
+msgid "Sorry, but the page you are looking for has not been found. Try checking the URL for errors, then hit the refresh button in your browser."
+msgstr "پوزش، اما صفحه‌ای که به دنبالش هستید یافت نشد. ممکن است بخواهید نشانی وب را برای خطاهای احتمالی بررسی کنید."
+
+#: 404.php:11
+msgid "Error 404 - Not Found"
+msgstr "خطای ۴۰۴ - یافت نشد"

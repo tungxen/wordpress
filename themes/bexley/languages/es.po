@@ -1,0 +1,213 @@
+# Translation of WordPress.com - Themes - Bexley in Spanish (Spain)
+# This file is distributed under the same license as the WordPress.com - Themes - Bexley package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-12 03:15:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-beta.2\n"
+"Language: es\n"
+"Project-Id-Version: WordPress.com - Themes - Bexley\n"
+
+#: functions.php:47
+msgid "Menu"
+msgstr "Menú"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/premium/bexley/style.css
+msgid "https://prothemedesign.com/"
+msgstr "https://prothemedesign.com/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/bexley/custom-templates/custom-page-fullwidth.php
+msgid "Full Width"
+msgstr "Página de ancho completo"
+
+#: searchform.php:10
+msgctxt "search input placeholder text"
+msgid "Search..."
+msgstr "Buscar..."
+
+#: search.php:11
+msgid "Search results for &#8216;<em>%s</em>&#8217;"
+msgstr "Resultados de la búsqueda para &#8216;<em>%s</em>&#8217;"
+
+#: inc/postmetadata.php:22
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/postmetadata.php:22
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/postmetadata.php:16
+msgid "View all posts by %s"
+msgstr "Ver todas las entradas de %s"
+
+#: inc/postmetadata.php:10
+msgid "<em>By</em> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span> on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+msgstr "<em>Por</em> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span> en <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+
+#: image.php:42
+msgid "&lsaquo; Back"
+msgstr "&lsaquo; Volver"
+
+#: image.php:15
+msgid "<div class=\"postmetadata\">Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a></div>"
+msgstr "<div class=\"postmetadata\">Publicado <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> en <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> en <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a></div>"
+
+#: header.php:32
+msgid "Home"
+msgstr "Inicio"
+
+#: functions.php:349
+msgid "Right"
+msgstr "Derecha"
+
+#: functions.php:348
+msgid "Center"
+msgstr "Center"
+
+#: functions.php:347
+msgid "Left (default)"
+msgstr "Izquierda (por defecto)"
+
+#: functions.php:311
+msgid "Theme"
+msgstr "Tema"
+
+#: functions.php:255
+msgid "Read More &rarr;"
+msgstr "Leer más &rarr;"
+
+#: functions.php:195
+msgid "&lsaquo; Newer"
+msgstr "&lsaquo; Más reciente"
+
+#: functions.php:194
+msgid "Older &rsaquo;"
+msgstr "Anterior &rsaquo;"
+
+#: functions.php:133
+msgid "Read More"
+msgstr "Leer Más"
+
+#: functions.php:112
+msgid "Widgets that display at the bottom of the website."
+msgstr "Widgets que aparecen en el pie del website"
+
+#: functions.php:110
+msgid "Footer Widgets"
+msgstr "Widgets del Pie"
+
+#: functions.php:97
+msgid "Sidebar Widgets"
+msgstr "Widgets de la barra lateral."
+
+#: functions.php:84
+msgid "Top Menu"
+msgstr "Top de menú"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lora, translate this to 'off'. Do not translate into your
+#. * own language.
+#: functions.php:34
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "activado"
+
+#: footer.php:36
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: footer.php:34
+msgid "Proudly powered by %s"
+msgstr "Funciona con %s"
+
+#: footer.php:34
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Una Plataforma de Publicación Semántica Personal"
+
+#: content-single.php:61
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: content-single.php:58
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: content-single.php:51
+msgid "Tagged as: "
+msgstr "Etiquetado como:"
+
+#: content-single.php:44
+msgid "Categories: "
+msgstr "Categorías:"
+
+#: content-page.php:18 content-single.php:34
+msgid "Pages: "
+msgstr "Páginas:"
+
+#: content-empty.php:25
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que está buscando. Quizás buscar ayude."
+
+#: content-empty.php:20
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincidió con su búsqueda. Por favor inténtelo de nuevo con otras palabras clave."
+
+#: content-empty.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-empty.php:10
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: comments.php:40
+msgid "Newer Comments &rsaquo;"
+msgstr "Comentarios más recientes>"
+
+#: comments.php:37
+msgid "&lsaquo; Older Comments"
+msgstr "&lsaquo; Comentarios antiguos"
+
+#: comments.php:20 inc/postmetadata.php:22
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: comments.php:18
+msgid "1 reply"
+msgid_plural "%1$s replies"
+msgstr[0] "1 respuesta"
+msgstr[1] "%1$s respuestas"
+
+#: author.php:12
+msgid "Author Archives"
+msgstr "Archivos de autor"
+
+#: archive.php:38
+msgid "Blog Archives"
+msgstr "Archivo del sitio"
+
+#: archive.php:26 archive.php:30 archive.php:34
+msgid "Archive for %s"
+msgstr "Archivos para %s"
+
+#: archive.php:22
+msgid "Tag Archive for &#8216;%s&#8217;"
+msgstr "Archivo de etiqueta para &#8216;%s&#8217;"
+
+#: 404.php:22
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: 404.php:12
+msgid "Sorry, but the page you are looking for has not been found. Try checking the URL for errors, then hit the refresh button in your browser."
+msgstr "Lo sentimos, pero no ha sido encontrada la página que estás buscando. Intenta buscar errores en la URL y a continuación actualiza tu navegador."
+
+#: 404.php:11
+msgid "Error 404 - Not Found"
+msgstr "Error 404 - No encontrado"

@@ -1,0 +1,246 @@
+# Translation of WordPress.com - Themes - Bexley in Japanese
+# This file is distributed under the same license as the WordPress.com - Themes - Bexley package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-12 03:15:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-beta.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: WordPress.com - Themes - Bexley\n"
+
+#: functions.php:47
+msgid "Menu"
+msgstr "メニュー"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/premium/bexley/style.css
+msgid "https://prothemedesign.com/"
+msgstr "https://prothemedesign.com/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/bexley/custom-templates/custom-page-fullwidth.php
+msgid "Full Width"
+msgstr "全幅"
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/bexley/style.css
+msgid "Bexley is a photo blog - placing the photos at the forefront and giving you plenty of space to add your own writing around them."
+msgstr "Bexley はフォトブログ向けテーマです。写真を最前面に押し出しており、そのまわりにテキストを書けるようたっぷりスペースを取っています。"
+
+#: searchform.php:10
+msgctxt "search input placeholder text"
+msgid "Search..."
+msgstr "検索…"
+
+#: search.php:11
+msgid "Search results for &#8216;<em>%s</em>&#8217;"
+msgstr "「%s」の検索結果"
+
+#: inc/postmetadata.php:22
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/postmetadata.php:22
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/postmetadata.php:16
+msgid "View all posts by %s"
+msgstr "%s のすべての投稿を表示"
+
+#: inc/postmetadata.php:10
+msgid "<em>By</em> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span> on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+msgstr "投稿者: <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span> 投稿日: <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+
+#: image.php:42
+msgid "&lsaquo; Back"
+msgstr "&lsaquo; 戻る"
+
+#: image.php:15
+msgid "<div class=\"postmetadata\">Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a></div>"
+msgstr "<div class=\"postmetadata\">公開日: <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> サイズ: <a href=\"%3$s\" title=\"フルサイズ画像へのリンク\">%4$s &times; %5$s</a> ギャラリー: <a href=\"%6$s\" title=\"%7$s へ戻る\" rel=\"gallery\">%7$s</a></div>"
+
+#: header.php:32
+msgid "Home"
+msgstr "ホーム"
+
+#: functions.php:364
+msgid "Display featured image on blog posts"
+msgstr "ブログ投稿にアイキャッチ画像を表示する"
+
+#: functions.php:349
+msgid "Right"
+msgstr "右"
+
+#: functions.php:348
+msgid "Center"
+msgstr "中央"
+
+#: functions.php:347
+msgid "Left (default)"
+msgstr "左 (デフォルト)"
+
+#: functions.php:344
+msgid "Homepage Title Alignment"
+msgstr "ホームページタイトルの配置"
+
+#: functions.php:325
+msgid "Use image ratio on homepage"
+msgstr "ホームページで画像の比率を使う"
+
+#: functions.php:312
+msgid "Options for the bexley theme."
+msgstr "bexley テーマの設定"
+
+#: functions.php:311
+msgid "Theme"
+msgstr "テーマ名"
+
+#: functions.php:255
+msgid "Read More &rarr;"
+msgstr "続きを読む &rarr;"
+
+#: functions.php:195
+msgid "&lsaquo; Newer"
+msgstr "新 &rsaquo;"
+
+#: functions.php:194
+msgid "Older &rsaquo;"
+msgstr "旧 &rsaquo;"
+
+#: functions.php:133
+msgid "Read More"
+msgstr "続きを読む"
+
+#: functions.php:112
+msgid "Widgets that display at the bottom of the website."
+msgstr "サイトの下部に表示されるウィジェット。"
+
+#: functions.php:110
+msgid "Footer Widgets"
+msgstr "フッターウィジェット"
+
+#: functions.php:99
+msgid "Widgets that display on the side of your website. Keep this empty to remove the sidebar."
+msgstr "サイトの下部に表示されるウィジェット。このサイドバーを表示したくない場合は空にしておいてください。"
+
+#: functions.php:97
+msgid "Sidebar Widgets"
+msgstr "サイドバーウィジェット"
+
+#: functions.php:84
+msgid "Top Menu"
+msgstr "トップメニュー"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lora, translate this to 'off'. Do not translate into your
+#. * own language.
+#: functions.php:34
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "on"
+
+#: footer.php:36
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:34
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:34
+msgid "A Semantic Personal Publishing Platform"
+msgstr "セマンティックなブログ／CMS プラットフォーム"
+
+#: content-single.php:61
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: content-single.php:58
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: content-single.php:51
+msgctxt "Tag list seperator"
+msgid ", "
+msgstr "、"
+
+#: content-single.php:51
+msgid "Tagged as: "
+msgstr "タグ: "
+
+#: content-single.php:44
+msgid "Categories: "
+msgstr "カテゴリー:"
+
+#: content-page.php:18 content-single.php:34
+msgid "Pages: "
+msgstr "ページ:"
+
+#: content-empty.php:25
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: content-empty.php:20
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: content-empty.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: content-empty.php:10
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: comments.php:40
+msgid "Newer Comments &rsaquo;"
+msgstr "新しいコメント &rsaquo;"
+
+#: comments.php:37
+msgid "&lsaquo; Older Comments"
+msgstr "&lsaquo; 過去のコメント"
+
+#: comments.php:20 inc/postmetadata.php:22
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#: comments.php:18
+msgid "1 reply"
+msgid_plural "%1$s replies"
+msgstr[0] "%1$s件の返信"
+
+#: author.php:12
+msgid "Author Archives"
+msgstr "投稿者アーカイブ"
+
+#: archive.php:38
+msgid "Blog Archives"
+msgstr "ブログアーカイブ"
+
+#: archive.php:26 archive.php:30 archive.php:34
+msgid "Archive for %s"
+msgstr "%s のアーカイブ"
+
+#: archive.php:22
+msgid "Tag Archive for &#8216;%s&#8217;"
+msgstr "「%s」のタグアーカイブ"
+
+#: archive.php:18
+msgid "Category Archive for &#8216;%s&#8217;"
+msgstr "「%s」のカテゴリーアーカイブ"
+
+#: 404.php:22
+msgid "Recent Posts"
+msgstr "最近の投稿"
+
+#: 404.php:12
+msgid "Sorry, but the page you are looking for has not been found. Try checking the URL for errors, then hit the refresh button in your browser."
+msgstr "お探しのページが見つかりません。URL が間違っていないかご確認ください。"
+
+#: 404.php:11
+msgid "Error 404 - Not Found"
+msgstr "エラー404 - 見つかりませんでした"

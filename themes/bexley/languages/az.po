@@ -1,0 +1,211 @@
+# Translation of Bexley in Azerbaijani
+# This file is distributed under the same license as the Bexley package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-06-24 12:38:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Bexley\n"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/bexley/custom-templates/custom-page-fullwidth.php
+msgid "Full Width"
+msgstr "Tam Genişlik"
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/bexley/style.css
+msgid "Bexley is a photo blog - placing the photos at the forefront and giving you plenty of space to add your own writing around them."
+msgstr "Bexley is a photo blog - placing the photos at the forefront and giving you plenty of space to add your own writing around them."
+
+#: searchform.php:9
+msgctxt "search input placeholder text"
+msgid "Search..."
+msgstr "Axtar..."
+
+#: search.php:11
+msgid "Search results for &#8216;<em>%s</em>&#8217;"
+msgstr "&#8216;<em>%s</em>&#8217; üçün axtarışın nəticələri"
+
+#: inc/postmetadata.php:22
+msgid "% Comments"
+msgstr "% Şərh"
+
+#: inc/postmetadata.php:22
+msgid "1 Comment"
+msgstr "1 Şərh"
+
+#: inc/postmetadata.php:16
+msgid "View all posts by %s"
+msgstr "%s tərəfindən yazılmış bütün yazılara bax"
+
+#: image.php:38
+msgid "&lsaquo; Back"
+msgstr "&lsaquo; Geri"
+
+#: header.php:33
+msgid "Home"
+msgstr "Əsas səhifə"
+
+#: functions.php:384
+msgid "Display featured image on blog posts"
+msgstr "Xüsusi təsviri bloq yazılarında göstər"
+
+#: functions.php:371
+msgid "Right"
+msgstr "Sağ"
+
+#: functions.php:370
+msgid "Center"
+msgstr "Mərkəz"
+
+#: functions.php:369
+msgid "Left (default)"
+msgstr "Sol (mövcud)"
+
+#: functions.php:338
+msgid "Theme"
+msgstr "Mövzu"
+
+#: functions.php:284
+msgid "Read More &rarr;"
+msgstr "Davamını Oxu &rarr;"
+
+#: functions.php:226
+msgid "&lsaquo; Newer"
+msgstr "&lsaquo; Yeni"
+
+#: functions.php:225
+msgid "Older &rsaquo;"
+msgstr "Əski &rsaquo;"
+
+#: functions.php:166
+msgid "Read More"
+msgstr "Davamını Oxu"
+
+#: functions.php:146
+msgid "Widgets that display at the bottom of the website."
+msgstr "Veb saytın alt bölməsində görünən vidcetlər."
+
+#: functions.php:144
+msgid "Footer Widgets"
+msgstr "Zirzəmi Vidcetləri"
+
+#: functions.php:131
+msgid "Sidebar Widgets"
+msgstr "Yan menyu çubuğu Vidceti"
+
+#: functions.php:118
+msgid "Top Menu"
+msgstr "Yuxarı Menyu"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lora, translate this to 'off'. Do not translate into your
+#. * own language.
+#. *
+#. * Technique borrowed from TwentyThirteen
+#: functions.php:76
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "açıq"
+
+#: functions.php:48
+msgid "Page %s"
+msgstr "Səhifə %s"
+
+#: footer.php:28
+msgid "Theme: %1$s by %2$s."
+msgstr "Mövzu: %1$s tərəfindən %2$s."
+
+#: footer.php:26
+msgid "Proudly powered by %s"
+msgstr "%s qürurla təqdim edər"
+
+#: footer.php:26
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Müasir Fərdi Yayın Platforması"
+
+#: content-single.php:57
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: content-single.php:54
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: content-single.php:48
+msgctxt "Tag list seperator"
+msgid ", "
+msgstr ", "
+
+#: content-single.php:41
+msgid "Categories: "
+msgstr "Kateqoriyalar:"
+
+#: content-page.php:16 content-single.php:32
+msgid "Pages: "
+msgstr "Səhifələr:"
+
+#: content-empty.php:24
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "Axtaradığınız şeyi tapmadıq kimi görünür. Bəlkə axtarış etmək yardımçı ola bilər."
+
+#: content-empty.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Bağışlayın, axtarış kriteriyalarınıza uyğun heç bir şey tapılmadı. Bəzi fərqli açar kəlmələrdən istifadə edərək təkrar yoxlayın."
+
+#: content-empty.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı dərc etməyə hazırsınızmı? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: content-empty.php:9
+msgid "Nothing Found"
+msgstr "Tapılmadı"
+
+#: comments.php:35
+msgid "Newer Comments &rsaquo;"
+msgstr "Yeni Şərhlər &rsaquo;"
+
+#: comments.php:32
+msgid "&lsaquo; Older Comments"
+msgstr "&lsaquo; Əski Şərhlər"
+
+#: comments.php:20 inc/postmetadata.php:22
+msgid "Leave a comment"
+msgstr "Bir şərh yazın"
+
+#: comments.php:18
+msgid "1 reply"
+msgid_plural "%1$s replies"
+msgstr[0] "1 cavab"
+msgstr[1] "%1$s cavab"
+
+#: author.php:12
+msgid "Author Archives"
+msgstr "Müəllif Arxivləri"
+
+#: archive.php:38
+msgid "Blog Archives"
+msgstr "Bloq Arxivləri"
+
+#: archive.php:26 archive.php:30 archive.php:34
+msgid "Archive for %s"
+msgstr "%s üçün arxivlər"
+
+#: archive.php:22
+msgid "Tag Archive for &#8216;%s&#8217;"
+msgstr "&#8216;%s&#8217; üçün etiket arxivi"
+
+#: 404.php:22
+msgid "Recent Posts"
+msgstr "Son Yazılar"
+
+#: 404.php:12
+msgid "Sorry, but the page you are looking for has not been found. Try checking the URL for errors, then hit the refresh button in your browser."
+msgstr "Bağışlayın, amma axtardığınız səhifə tapılmadı. Xətalar üçün URL-ı yoxlayın, sonra brauzerinizdəki yenilə düyməsinə basın."
+
+#: 404.php:11
+msgid "Error 404 - Not Found"
+msgstr "404 Xətası - Heç nə tapılmadı"

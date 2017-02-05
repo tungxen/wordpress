@@ -1,0 +1,222 @@
+# Translation of WordPress.com - Themes - Bexley in Portuguese (Brazil)
+# This file is distributed under the same license as the WordPress.com - Themes - Bexley package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-12 03:15:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.1.0-beta.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: WordPress.com - Themes - Bexley\n"
+
+#: functions.php:47
+msgid "Menu"
+msgstr "Menu"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/premium/bexley/style.css
+msgid "https://prothemedesign.com/"
+msgstr "https://prothemedesign.com/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/bexley/custom-templates/custom-page-fullwidth.php
+msgid "Full Width"
+msgstr "Comprimento Total"
+
+#: searchform.php:10
+msgctxt "search input placeholder text"
+msgid "Search..."
+msgstr "Pesquisar..."
+
+#: search.php:11
+msgid "Search results for &#8216;<em>%s</em>&#8217;"
+msgstr "Resultados da pesquisa por &#8216;<em>%s</em>&#8217;"
+
+#: inc/postmetadata.php:22
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: inc/postmetadata.php:22
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: inc/postmetadata.php:16
+msgid "View all posts by %s"
+msgstr "Ver todos os artigos de %s"
+
+#: inc/postmetadata.php:10
+msgid "<em>By</em> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span> on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+msgstr "<em>By</em> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span> on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+
+#: image.php:42
+msgid "&lsaquo; Back"
+msgstr "&lsaquo; Voltar"
+
+#: image.php:15
+msgid "<div class=\"postmetadata\">Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a></div>"
+msgstr "<div class=\"postmetadata\">Publicado <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link para a imagem em tamanho original\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Retornar para %7$s\" rel=\"gallery\">%7$s</a></div>"
+
+#: header.php:32
+msgid "Home"
+msgstr "Início"
+
+#: functions.php:349
+msgid "Right"
+msgstr "Direita"
+
+#: functions.php:348
+msgid "Center"
+msgstr "Centro"
+
+#: functions.php:347
+msgid "Left (default)"
+msgstr "Esquerda (padrão)"
+
+#: functions.php:325
+msgid "Use image ratio on homepage"
+msgstr "Usar proporção da imagem na página inicial"
+
+#: functions.php:311
+msgid "Theme"
+msgstr "Tema"
+
+#: functions.php:255
+msgid "Read More &rarr;"
+msgstr "Leia Mais &rarr;"
+
+#: functions.php:195
+msgid "&lsaquo; Newer"
+msgstr "&lsaquo; Recente"
+
+#: functions.php:194
+msgid "Older &rsaquo;"
+msgstr "Antigo &rsaquo;"
+
+#: functions.php:133
+msgid "Read More"
+msgstr "Ler mais"
+
+#: functions.php:112
+msgid "Widgets that display at the bottom of the website."
+msgstr "Widgets que aparecem na parte de baixo do seu site."
+
+#: functions.php:110
+msgid "Footer Widgets"
+msgstr "Widgets do rodapé"
+
+#: functions.php:99
+msgid "Widgets that display on the side of your website. Keep this empty to remove the sidebar."
+msgstr "Widgets que aparecerem na barra lateral do seu site. Mantenha vazio para remover a barra lateral."
+
+#: functions.php:97
+msgid "Sidebar Widgets"
+msgstr "Widgets da Barra Lateral"
+
+#: functions.php:84
+msgid "Top Menu"
+msgstr "Menu Principal"
+
+#: footer.php:36
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s. "
+
+#: footer.php:34
+msgid "Proudly powered by %s"
+msgstr "Orgulhosamente mantido com %s"
+
+#: footer.php:34
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Uma plataforma de publicação pessoal semântica"
+
+#: content-single.php:61
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: content-single.php:58
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: content-single.php:51
+msgctxt "Tag list seperator"
+msgid ", "
+msgstr ", "
+
+#: content-single.php:51
+msgid "Tagged as: "
+msgstr "Marcado como:"
+
+#: content-single.php:44
+msgid "Categories: "
+msgstr "Categorias:"
+
+#: content-page.php:18 content-single.php:34
+msgid "Pages: "
+msgstr "Páginas"
+
+#: content-empty.php:25
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "Parece que não conseguimos encontrar o que você está procurando. Usar a busca talvez possa ajudar."
+
+#: content-empty.php:20
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Nada foi encontrado com os termos da sua pesquisa. Tente novamente com algumas palavras-chaves diferentes."
+
+#: content-empty.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: content-empty.php:10
+msgid "Nothing Found"
+msgstr "Nada Encontrado"
+
+#: comments.php:40
+msgid "Newer Comments &rsaquo;"
+msgstr "Comentários mais recentes &rsaquo;"
+
+#: comments.php:37
+msgid "&lsaquo; Older Comments"
+msgstr "&lsaquo; Comentários mais antigos"
+
+#: comments.php:20 inc/postmetadata.php:22
+msgid "Leave a comment"
+msgstr "Deixe um comentário"
+
+#: comments.php:18
+msgid "1 reply"
+msgid_plural "%1$s replies"
+msgstr[0] "1 resposta"
+msgstr[1] "%1$s respostas"
+
+#: author.php:12
+msgid "Author Archives"
+msgstr "Arquivos do Autor"
+
+#: archive.php:38
+msgid "Blog Archives"
+msgstr "Arquivos do Blog"
+
+#: archive.php:26 archive.php:30 archive.php:34
+msgid "Archive for %s"
+msgstr "Arquivo de %s"
+
+#: archive.php:22
+msgid "Tag Archive for &#8216;%s&#8217;"
+msgstr "Arquivo de tag de &#8216;%s&#8217;"
+
+#: archive.php:18
+msgid "Category Archive for &#8216;%s&#8217;"
+msgstr "Arquivo de categoria para &#8216;%s&#8217;"
+
+#: 404.php:22
+msgid "Recent Posts"
+msgstr "Posts Recentes"
+
+#: 404.php:12
+msgid "Sorry, but the page you are looking for has not been found. Try checking the URL for errors, then hit the refresh button in your browser."
+msgstr "Desculpe, mas a página que você está procurando não foi encontrada. Verifique se não há erros no URL, e então clique no botão atualizar de seu navegador."
+
+#: 404.php:11
+msgid "Error 404 - Not Found"
+msgstr "Erro 404 - Não Encontrado"

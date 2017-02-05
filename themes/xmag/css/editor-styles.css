@@ -1,0 +1,119 @@
+/*
+Theme Name: xMag
+Description: Used to style the TinyMCE editor.
+*/
+
+html .mceContentBody {
+	font-size: 15px;
+	max-width: 740px;
+	line-height: 1.65;
+}
+
+body {
+	color: #333;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.65;
+	text-rendering: optimizeLegibility;
+	vertical-align: baseline;
+	font-size: 15px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	clear: both;
+	font-family: 'Roboto', sans-serif;
+	line-height: 1.4;
+	color: #222;
+	
+}
+
+h1,
+h2,
+h3 {
+	margin: 20px 0 10px;
+}
+
+h4,
+h5,
+h6 {
+	margin: 10px 0;
+}
+
+h1 {
+	font-size: 2.4em;
+	font-weight: 300;
+	
+}
+
+h2 {
+	font-size: 1.6em;
+	font-weight: 400;
+}
+
+h3 {
+	font-size: 	1.2em;
+}
+
+h4 {
+	font-size: 0.933em;
+    text-transform: uppercase;
+}
+
+h5 {
+	font-size: 1em;
+}
+
+p {
+    margin: 0 0 20px;
+}
+
+img {
+	height: auto;
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+a,
+a:visited {
+	color: #e54e53;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #e54e53;
+	text-decoration: underline;
+}
+
+strong {
+	font-weight: 700;
+}
+
+.alignleft,
+.wp-caption.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1em;
+}
+
+.alignright,
+.wp-caption.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1em;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin: 0.5em auto;
+}
+
+embed,
+iframe,
+object {
+	max-width: 100%;
+}

@@ -1,0 +1,281 @@
+# Copyright (C) 2016 Pro Theme Design
+# This file is distributed under the GNU General Public License v2.0 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bexley 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/bexley\n"
+"POT-Creation-Date: 2016-07-12 03:14:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:11
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"Sorry, but the page you are looking for has not been found. Try checking the "
+"URL for errors, then hit the refresh button in your browser."
+msgstr ""
+
+#: 404.php:22
+msgid "Recent Posts"
+msgstr ""
+
+#: archive.php:18
+msgid "Category Archive for &#8216;%s&#8217;"
+msgstr ""
+
+#: archive.php:22
+msgid "Tag Archive for &#8216;%s&#8217;"
+msgstr ""
+
+#: archive.php:26 archive.php:30 archive.php:34
+msgid "Archive for %s"
+msgstr ""
+
+#: archive.php:38
+msgid "Blog Archives"
+msgstr ""
+
+#: author.php:12
+msgid "Author Archives"
+msgstr ""
+
+#: comments.php:18
+msgid "1 reply"
+msgid_plural "%1$s replies"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:20 inc/postmetadata.php:22
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:37
+msgid "&lsaquo; Older Comments"
+msgstr ""
+
+#: comments.php:40
+msgid "Newer Comments &rsaquo;"
+msgstr ""
+
+#: content-empty.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: content-empty.php:16
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-empty.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-empty.php:25
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-page.php:18 content-single.php:34
+msgid "Pages: "
+msgstr ""
+
+#: content-single.php:44
+msgid "Categories: "
+msgstr ""
+
+#: content-single.php:51
+msgid "Tagged as: "
+msgstr ""
+
+#: content-single.php:51
+msgctxt "Tag list seperator"
+msgid ", "
+msgstr ""
+
+#: content-single.php:58
+msgid "&lsaquo;"
+msgstr ""
+
+#: content-single.php:61
+msgid "&rsaquo;"
+msgstr ""
+
+#: footer.php:34
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:34
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:36
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	 * supported by Lora, translate this to 'off'. Do not translate into your
+#. 	 * own language.
+#: functions.php:34
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:47
+msgid "Menu"
+msgstr ""
+
+#: functions.php:84
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:97
+msgid "Sidebar Widgets"
+msgstr ""
+
+#: functions.php:99
+msgid ""
+"Widgets that display on the side of your website. Keep this empty to remove "
+"the sidebar."
+msgstr ""
+
+#: functions.php:110
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:112
+msgid "Widgets that display at the bottom of the website."
+msgstr ""
+
+#: functions.php:133
+msgid "Read More"
+msgstr ""
+
+#: functions.php:194
+msgid "Older &rsaquo;"
+msgstr ""
+
+#: functions.php:195
+msgid "&lsaquo; Newer"
+msgstr ""
+
+#: functions.php:255
+msgid "Read More &rarr;"
+msgstr ""
+
+#: functions.php:311
+msgid "Theme"
+msgstr ""
+
+#: functions.php:312
+msgid "Options for the bexley theme."
+msgstr ""
+
+#: functions.php:325
+msgid "Use image ratio on homepage"
+msgstr ""
+
+#: functions.php:344
+msgid "Homepage Title Alignment"
+msgstr ""
+
+#: functions.php:347
+msgid "Left (default)"
+msgstr ""
+
+#: functions.php:348
+msgid "Center"
+msgstr ""
+
+#: functions.php:349
+msgid "Right"
+msgstr ""
+
+#: functions.php:364
+msgid "Display featured image on blog posts"
+msgstr ""
+
+#: header.php:32
+msgid "Home"
+msgstr ""
+
+#: image.php:15
+msgid ""
+"<div class=\"postmetadata\">Published <span class=\"entry-date\"><time class="
+"\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s"
+"\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s"
+"\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a></div>"
+msgstr ""
+
+#: image.php:42
+msgid "&lsaquo; Back"
+msgstr ""
+
+#: inc/postmetadata.php:10
+msgid ""
+"<em>By</em> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></span> on <a href=\"%1$s\" title="
+"\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</"
+"time></a>"
+msgstr ""
+
+#: inc/postmetadata.php:16
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/postmetadata.php:22
+msgid "1 Comment"
+msgstr ""
+
+#: inc/postmetadata.php:22
+msgid "% Comments"
+msgstr ""
+
+#: search.php:11
+msgid "Search results for &#8216;<em>%s</em>&#8217;"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "search input placeholder text"
+msgid "Search..."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/premium/bexley/style.css
+msgid "Bexley"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/premium/bexley/style.css
+msgid "https://wordpress.com/themes/bexley/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/bexley/style.css
+msgid ""
+"Bexley is a photo blog - placing the photos at the forefront and giving you "
+"plenty of space to add your own writing around them."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/premium/bexley/style.css
+msgid "Pro Theme Design"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/premium/bexley/style.css
+msgid "https://prothemedesign.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/bexley/custom-templates/custom-page-fullwidth.php
+msgid "Full Width"
+msgstr ""
